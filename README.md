@@ -30,13 +30,13 @@ Hello! 👋 I'm Nyasha Chimutapira, a software developer student at Brigham Youn
 - Role: Full‑stack developer
 - Tech: React, Node.js, PostgreSQL, Docker
 - Summary: Web app for discovering and joining campus events and student groups. Implemented user authentication, event CRUD, and a responsive UI. Designed the database schema and REST API.
-- Repo: [View on GitHub](https://github.com/nyashachimutapira/campusconnect)
+- Repo: [View on GitHub](https://github.com/nyashachimutapira/campusconnect.git)
 
 ### AlgoPractice — Algorithms Practice Tracker
 - Role: Solo developer
 - Tech: Python, Flask, SQLite
 - Summary: Tracks solved algorithm problems, categorizes by topic, and provides practice schedules. Built REST endpoints and a frontend dashboard.
-- Repo: [View on GitHub](https://github.com/nyashachimutapira/algopractice)
+- Repo: [View on GitHub](https://github.com/nyashachimutapira/AlgoPractice.git)
 
 ### WeatherDash — Real-time Weather Dashboard
 - Role: Frontend developer
